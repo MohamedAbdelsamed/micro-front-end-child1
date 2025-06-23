@@ -1,0 +1,20 @@
+ .add_btn{
+    background-color: #336296;
+    border: 0;
+    display: block;
+    margin: 0 auto;
+    width: 250px;   
+}
+.login-data{
+    margin: auto;
+    background-color: #fafafa;
+    padding: 25px;
+}
+.iener{
+    background: #fff;
+    border-radius: 15px;
+    box-shadow: 3px 8px 6px -2px rgba(232, 227, 227, 0.72);
+    -webkit-box-shadow: 3px 8px 6px -2px rgba(232, 227, 227, 0.72);
+    -moz-box-shadow: 3px 8px 6px -2px rgba(232,227,227,0.72);
+    padding-bottom: 25px;
+}
